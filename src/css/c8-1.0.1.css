@@ -373,7 +373,7 @@ animation: infinite loader 2s ease-in-out;
 
 /* Static page */
 .page-type-static_page .post-outer {
-  width: 100%;
+  width: 100% !important;
 }
 .page-type-static_page .blog-posts .post {
   padding: 20px;
